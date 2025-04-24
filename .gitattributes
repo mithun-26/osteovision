@@ -15,3 +15,4 @@ Fine-Tuned filter=lfs diff=lfs merge=lfs -text
 on filter=lfs diff=lfs merge=lfs -text
 dataset filter=lfs diff=lfs merge=lfs -text
 3 filter=lfs diff=lfs merge=lfs -text
+C:/Users/mithu/Desktop/MY[[:space:]]PROJECTS[[:space:]]GITHUB/osteovision-main/osteovision-main/src/models/OSTEO_VISION_MODEL_6_[[:space:]]Knee[[:space:]]Osteoarthritis[[:space:]]Detection[[:space:]]with[[:space:]]Fine-Tuned[[:space:]]ResNet152V2[[:space:]]on[[:space:]]dataset[[:space:]]3[[:space:]]MODEL_6.h5 filter=lfs diff=lfs merge=lfs -text
